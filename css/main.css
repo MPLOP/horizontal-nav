@@ -21,7 +21,7 @@ h1 {
   background-color: #79756f;
   color: #fff;
   margin: 0;
-  font-family: Bevan;
+  font-family: Bevan, serif;
 }
 
 .nav {
@@ -43,7 +43,7 @@ h1 {
   background-color: #713837;
   border-radius: 4px;
   text-decoration: none;
-  font: sans-serif;
+  font-family: sans-serif;
 }
 
 .nav a:hover {
